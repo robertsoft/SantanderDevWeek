@@ -10,6 +10,6 @@ Nesse layout é possivel ver a utilizacão de CardsViews, ToolBar personalizada,
 
 ## Layout
 
-<img src="D:\Roberto\Documents\serviço\qahalsys\Plataforma DIO\android\WhatsApp Image 2021-06-01 at 08.52.18 (1).jpeg" alt="WhatsApp Image 2021-06-01 at 08.52.18 (1)" style="zoom: 50%;" />
+<img src="WhatsApp Image 2021-06-01 at 08.52.18 (1).jpeg" alt="WhatsApp Image 2021-06-01 at 08.52.18 (1)" style="zoom: 50%;" />
 
-<img src="D:\Roberto\Documents\serviço\qahalsys\Plataforma DIO\android\WhatsApp Image 2021-06-01 at 08.52.18.jpeg" alt="WhatsApp Image 2021-06-01 at 08.52.18" style="zoom: 50%;" />
+<img src="WhatsApp Image 2021-06-01 at 08.52.18.jpeg" alt="WhatsApp Image 2021-06-01 at 08.52.18" style="zoom: 50%;" />
